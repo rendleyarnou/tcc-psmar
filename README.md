@@ -11,4 +11,4 @@ O processo possui atualmente os seguintes subprocessos e tarefas:
 - [x] 6. Desenvolver sistema multiagente com JAMDER;
 - [x] 7. Testar sistema multiagente;
 
-Clique [aqui](www.cin.ufpe.br/~ejtg/PSMAR) para ver a modelagem do processo utilizando _Business Process Model and Notation_, uma linguagem de modelagem de processos de negócios.
+Clique [aqui](https://www.cin.ufpe.br/~ejtg/PSMAR) para ver a modelagem do processo utilizando _Business Process Model and Notation_, uma linguagem de modelagem de processos de negócios.
