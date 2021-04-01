@@ -2,8 +2,6 @@
 
 > PSMAR - Um Processo para Desenvolvimento de Sistemas Multiagentes com Agentes Racionais.
 
-![Imagem do Processo PSMAR](Documentos/images/PSMAR.png)
-
 ## Subprocessos e Tarefas
 
 O processo possui atualmente os seguintes subprocessos e tarefas:
